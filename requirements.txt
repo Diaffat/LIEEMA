@@ -3,3 +3,6 @@ pandas
 streamlit_option_menu
 pyodbc
 python_time
+plotly
+base64
+datetime
